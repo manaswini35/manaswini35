@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manaswini-sripada-b60487298/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manaswinisripada@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=googledrive&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1QoHlspKHkgMtLj148SzuXConptnEWueK/view?usp=drivesdk)
 
 </div>
 
