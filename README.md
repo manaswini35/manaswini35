@@ -89,13 +89,8 @@ Working through data structures and algorithms to build the fundamentals that ho
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manaswini35&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=86400"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manaswini35&layout=compact&theme=react&hide_border=true&langs_count=8&cache_seconds=86400"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=manaswini35&theme=react&hide_border=true"/>
+<img height="180em" src="./profile/stats.svg"/>
+<img height="180em" src="./profile/top-langs.svg"/>
 
 </div>
 
